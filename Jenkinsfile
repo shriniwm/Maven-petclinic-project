@@ -1,4 +1,4 @@
-node {'JenkinsSlave'}
+node ('JenkinsSlave')
  {
     
  notify('Started')    
